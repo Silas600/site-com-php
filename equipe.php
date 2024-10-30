@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+<?php include "includes/cabecalho.php" ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Equipe - Site</title>
-</head>
-<body>
-    <header>
-        <h1>Site exemplo</h1>
-        <nav>
-            <a href="">Home</a>
-            <a href="">Equipe</a>
-            <a href="">Serviços</a>
-        </nav>
-    </header>
-
-    <main> 
-        <article>
             <h2>Nossa Equipe</h2>
             <ul>
-                <li>tony Stark</li>
+                <li>Tony Stark</li>
                 <li>Bruce Wayne</li>
                 <li>Racha Cuca</li>
             </ul>
