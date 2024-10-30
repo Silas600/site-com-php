@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site</title>
+    <title>Equipe - Site</title>
 </head>
 <body>
     <header>
@@ -18,8 +18,12 @@
 
     <main> 
         <article>
-            <h2>Bem-vindo(a)!</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam, assumenda!</p>
+            <h2>Nossa Equipe</h2>
+            <ul>
+                <li>tony Stark</li>
+                <li>Bruce Wayne</li>
+                <li>Racha Cuca</li>
+            </ul>
         </article>
     </main>
 
